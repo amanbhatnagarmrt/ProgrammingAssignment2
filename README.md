@@ -1,9 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-
-
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 ## This function creates a special "matrix" object that can cache its inverse
